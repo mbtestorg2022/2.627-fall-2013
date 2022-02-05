@@ -15,11 +15,57 @@ This page presents the problem sets, a manufacturing simulation assignment, and 
 Problem Sets
 ------------
 
-| PROBLEM SETS # | SUPPORTING MATERIALS |
-| --- | --- |
-| [Problem set 1 (PDF)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/MIT2_627F13_pset1.pdf) | &nbsp; |
-| [Problem set 2 (PDF)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/MIT2_627F13_pset2.pdf) | &nbsp; |
-| [Problem set 3 (PDF)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/MIT2_627F13_pset3.pdf) |  {{< br >}}{{< br >}} For Question 1: [Dark and Illuminated I-V Measurement Data (XLS)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/MIT2_627F13_pset3_q1data.xlsx) {{< br >}}{{< br >}} _References_  {{< br >}}Slides for [Lecture 6: Charge Separation, Part II (PDF - 2.1MB)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/lecture-videos-slides/MIT2_627F13_lec06.pdf) {{< br >}}{{< br >}} Green, M. A. "Design of Silicon Solar Cells." Chapter 8 in _Solar Cells: Operating Principles, Technology, and System Applications_. Prentice Hall, 1981. ISBN: 9780138222703. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PROBLEM SETS #
+{{< thclose >}}
+{{< thopen >}}
+SUPPORTING MATERIALS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 1 (PDF)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/MIT2_627F13_pset1.pdf)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 2 (PDF)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/MIT2_627F13_pset2.pdf)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+[Problem set 3 (PDF)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/MIT2_627F13_pset3.pdf)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+For Question 1: [Dark and Illuminated I-V Measurement Data (XLS)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/MIT2_627F13_pset3_q1data.xlsx)
+
+_References_  
+Slides for [Lecture 6: Charge Separation, Part II (PDF - 2.1MB)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/lecture-videos-slides/MIT2_627F13_lec06.pdf)
+
+Green, M. A. "Design of Silicon Solar Cells." Chapter 8 in _Solar Cells: Operating Principles, Technology, and System Applications_. Prentice Hall, 1981. ISBN: 9780138222703.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Manufacturing Simulation
 ------------------------
