@@ -329,7 +329,7 @@ Luque, A., and S. Hegedus, eds. Chapters in _Handbook of Photovoltaic Science an
 
 *   Ceccaroli, B., and O. Lohne. Excerpt of Chapter 5: "[Solar Grade Silicon Feedstock](http://dx.doi.org/10.1002/9780470974704.ch5)." pp. 169–93.
 *   Rodriguez, H., I. Geurrero, et al. Excerpt of Chapter 6: "[Bulk Crystal Growth and Wafering for PV](http://dx.doi.org/10.1002/9780470974704.ch6)." pp. 218–39.
-*   Tobias, I., C. del Canizo, and J. Alonso. Excerpt of Chapter 7: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif) "[Crystalline Silicon Solar Cells and Modules](http://dx.doi.org/10.1002/9780470974704.ch7)." pp. 265–89.
+*   Tobias, I., C. del Canizo, and J. Alonso. Excerpt of Chapter 7:  "[Crystalline Silicon Solar Cells and Modules](http://dx.doi.org/10.1002/9780470974704.ch7)." pp. 265–89.
 
 
 {{< tdclose >}}
