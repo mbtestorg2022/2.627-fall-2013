@@ -36,7 +36,7 @@ Course Structure
 
 The course is divided into three parts: Fundamentals, Technologies, and Cross-Cutting Themes. This structure is represented by the following figure and reflected in the course [calendar]({{< baseurl >}}/pages/calendar-readings).
 
-![Diagram of a two-layer rectangle, with base “Fundamentals” topped by a second layer of smaller blocks in a grid, labeled Themes 1-6 and Tech A-E.](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/syllabus/concpt_model.png)
+{{< resource "19072bd7-636e-827b-c31b-4dd3b36d6274" >}}
 
 For the first half of the term, the course will operate in a "flipped classroom" mode. For lectures 2 to 12, before each class period, you will watch the assigned MIT OpenCourseWare video lecture recorded during the Fall 2011 term. Our class meetings will be devoted to further discussion and in-class activities.
 

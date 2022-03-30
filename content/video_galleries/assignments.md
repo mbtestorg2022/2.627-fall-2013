@@ -30,7 +30,7 @@ SUPPORTING MATERIALS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 1 (PDF)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/MIT2_627F13_pset1.pdf)
+{{% resource_link "b692be51-7a36-b66f-7626-3353d1d27c1d" "Problem set 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -39,7 +39,7 @@ SUPPORTING MATERIALS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 2 (PDF)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/MIT2_627F13_pset2.pdf)
+{{% resource_link "88129284-e0ef-a2fd-b056-b3190fd7fd82" "Problem set 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -48,15 +48,15 @@ SUPPORTING MATERIALS
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem set 3 (PDF)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/MIT2_627F13_pset3.pdf)
+{{% resource_link "468381a6-35ab-69e6-1fa3-50da0b4b774d" "Problem set 3 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-For Question 1: [Dark and Illuminated I-V Measurement Data (XLS)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/MIT2_627F13_pset3_q1data.xlsx)
+For Question 1: {{% resource_link "507e3bc4-8edc-5784-1a02-761a136e13eb" "Dark and Illuminated I-V Measurement Data (XLS)" %}}
 
 _References_  
-Slides for [Lecture 6: Charge Separation, Part II (PDF - 2.1MB)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/lecture-videos-slides/MIT2_627F13_lec06.pdf)
+Slides for {{% resource_link "05acc0e6-8da1-e76e-03e5-4df54fdcfcf8" "Lecture 6: Charge Separation, Part II (PDF - 2.1MB)" %}}
 
 Green, M. A. "Design of Silicon Solar Cells." Chapter 8 in _Solar Cells: Operating Principles, Technology, and System Applications_. Prentice Hall, 1981. ISBN: 9780138222703.
 
@@ -72,7 +72,7 @@ Manufacturing Simulation
 
 Download the manufacturing simulation software: [Virtual MES](https://sites.google.com/site/virtualsolarcellsinc/virtual-mes-software)
 
-Assignment: [Hypothesis Testing of New Wafer Supplies (PDF)](/courses/mechanical-engineering/2-627-fundamentals-of-photovoltaics-fall-2013/assignments/MIT2_627F13_assn_sim.pdf)
+Assignment: {{% resource_link "84282d63-468f-afd3-00cf-6f8b25ceb46c" "Hypothesis Testing of New Wafer Supplies (PDF)" %}}
 
 Team Project
 ------------
